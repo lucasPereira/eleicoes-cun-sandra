@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+html {
+	font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+li,
+p,
+small,
+strong,
+i {
+	font-size: 1rem;
+	font-weight: normal;
+	font-style: none;
+}
+
+h1,
+h2,
+h3,
+body,
+p,
+ul,
+li {
+	margin: 0;
+	padding: 0;
+}
