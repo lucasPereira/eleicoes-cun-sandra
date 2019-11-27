@@ -2,7 +2,7 @@
 
 .lado {
 	background-color: #8A2BE2;
-	height: 209mm;
+	height: 210mm;
 	width: 148mm;
 }
 
@@ -143,6 +143,6 @@
 .apoios > table th,
 .apoios > table td {
 	font-family: sans-serif;
-	padding: 0.49rem;
+	padding: 0.4rem;
 	text-align: left;
 }
